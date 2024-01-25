@@ -1,0 +1,3 @@
+hello world 
+test 2
+to switch from one branch to another: git switch <branch_name>
