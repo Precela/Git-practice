@@ -9,3 +9,9 @@
 * git switch -c <branch name>
 * git status
 * git cherry-pick 
+
+## Github linkup
+* git push -u origin 
+* git push origin
+* git remote
+* git remote -v
